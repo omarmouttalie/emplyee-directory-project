@@ -1,0 +1,4 @@
+/uploads/employees/*
+!/uploads/employees/.gitkeep
+
+Thumbs.db
